@@ -10,7 +10,7 @@ gem 'rails', '~> 5.2.2'
 # Use postgres
 gem 'pg'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use Redis adapter to run Action Cable in production
 gem 'redis', '~> 4.0'
 # User JWTSession with Devise
